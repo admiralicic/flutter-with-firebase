@@ -1,5 +1,3 @@
-# time_tracker_flutter_course
-
 A new Flutter application.
 
 ## Getting Started
